@@ -4,7 +4,7 @@
 - DNS is a collection of rules and records which helps clients understand how to reach a server through its domain name
 - In AWS, the most common records are:
     - A: map a hostname to IPv4
-    - AAAA: map a hostname tp IPv6
+    - AAAA: map a hostname to IPv6
     - CNAME: map a hostname to another hostname
     - Alias: map a hostname to an AWS resource
 - Route 53 can use:
