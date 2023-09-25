@@ -8,7 +8,7 @@
     - Ensure we have a minimum and a maximum number of machines running
     - Automatically register new instances to a load balancer
 
-## ASG Attributes
+## ASG Attributes( ASG creations step by step process)
 
 - Launch configuration - consists of:
     - AMI + Instance Type
